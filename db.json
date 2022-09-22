@@ -1,74 +1,138 @@
 {
-  "users": [
+  "transactions": [
     {
       "id": 1,
-      "first_name": "Justina",
-      "last_name": "Ginglell",
-      "email": "jginglell0@networkadvertising.org",
-      "gender": "Female"
+      "title": "Teste 1",
+      "type": "deposit",
+      "category": "Extra",
+      "amount": 12000,
+      "createdAt": 1663864985652
     },
     {
       "id": 2,
-      "first_name": "Marion",
-      "last_name": "Jenman",
-      "email": "mjenman1@surveymonkey.com",
-      "gender": "Male"
+      "title": "Teste 2",
+      "type": "withdraw",
+      "category": "Pets",
+      "amount": 500,
+      "createdAt": 1663864985652
     },
     {
       "id": 3,
-      "first_name": "Alfy",
-      "last_name": "Begin",
-      "email": "abegin2@list-manage.com",
-      "gender": "Female"
+      "title": "Teste 3",
+      "type": "withdraw",
+      "category": "Academia",
+      "amount": 550,
+      "createdAt": 1663864985652
     },
     {
       "id": 4,
-      "first_name": "Karney",
-      "last_name": "Zanussii",
-      "email": "kzanussii3@hao123.com",
-      "gender": "Male"
+      "title": "Teste 4",
+      "type": "withdraw",
+      "category": "Investimentos",
+      "amount": 100,
+      "createdAt": 1663864985652
     },
     {
       "id": 5,
-      "first_name": "Reid",
-      "last_name": "Schapero",
-      "email": "rschapero4@timesonline.co.uk",
-      "gender": "Male"
+      "title": "Teste 5",
+      "type": "withdraw",
+      "category": "Educação",
+      "amount": 4000,
+      "createdAt": 1663864985652
     },
     {
       "id": 6,
-      "first_name": "Dorine",
-      "last_name": "Braybrookes",
-      "email": "dbraybrookes5@gov.uk",
-      "gender": "Female"
+      "title": "Teste 6",
+      "type": "withdraw",
+      "category": "Transporte",
+      "amount": 1100,
+      "createdAt": 1663864985652
     },
     {
       "id": 7,
-      "first_name": "Sarena",
-      "last_name": "Frape",
-      "email": "sfrape6@alexa.com",
-      "gender": "Female"
+      "title": "Teste 7",
+      "type": "withdraw",
+      "category": "Saúde",
+      "amount": 600,
+      "createdAt": 1663864985652
     },
     {
       "id": 8,
-      "first_name": "Malva",
-      "last_name": "Pierse",
-      "email": "mpierse7@usda.gov",
-      "gender": "Female"
+      "title": "Teste 8",
+      "type": "withdraw",
+      "category": "Alimentação",
+      "amount": 4200,
+      "createdAt": 1663864985652
     },
     {
       "id": 9,
-      "first_name": "Rania",
-      "last_name": "Dablin",
-      "email": "rdablin8@state.gov",
-      "gender": "Female"
+      "title": "Teste 9",
+      "type": "deposit",
+      "category": "Extra",
+      "amount": 600,
+      "createdAt": 1663864985652
     },
     {
       "id": 10,
-      "first_name": "Ingrim",
-      "last_name": "Offen",
-      "email": "ioffen9@slideshare.net",
-      "gender": "Male"
+      "title": "Teste 10",
+      "type": "withdraw",
+      "category": "Academia",
+      "amount": 300,
+      "createdAt": 1663864985652
+    },
+    {
+      "id": 11,
+      "title": "Teste 11",
+      "type": "deposit",
+      "category": "Academia",
+      "amount": 2000,
+      "createdAt": 1663864985652
+    },
+    {
+      "id": 12,
+      "title": "Teste 12",
+      "type": "withdraw",
+      "category": "Extra",
+      "amount": 1000,
+      "createdAt": 1663864985652
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": ""
+    },
+    {
+      "id": 2,
+      "name": "Alimentação"
+    },
+    {
+      "id": 3,
+      "name": "Academia"
+    },
+    {
+      "id": 4,
+      "name": "Saúde"
+    },
+    {
+      "id": 5,
+      "name": "Investimentos"
+    },
+    {
+      "id": 6,
+      "name": "Pets"
+    },
+    {
+      "id": 7,
+      "name": "Educação"
+    },
+    {
+      "id": 8,
+      "name": "Transporte"
+    },
+    {
+      "id": 9,
+      "name": "Extra"
     }
   ]
 }
